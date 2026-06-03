@@ -139,15 +139,18 @@ food-delivery-sql-analysis/
 
 ---
 
-## Dashboard
+## Interactive Dashboard
 
-Interactive dashboard developed using Looker Studio.
+Explore the full interactive dashboard developed in Looker Studio:
 
 The dashboard includes:
 
 * Executive Overview
 * Restaurant Performance Analysis
 * Customer & Operations Analysis
+
+🔗 **Dashboard Link:**
+https://datastudio.google.com/reporting/456d5219-737e-455c-939a-a64606ec3e8e
 
 ---
 
