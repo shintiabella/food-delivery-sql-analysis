@@ -78,15 +78,15 @@ SQL/food_delivery_analysis.sql
 
 ### Executive Overview
 
-![Executive Overview](Dashboard/dashboard_overview)
+![Executive Overview](Dashboard/dashboard_overview.png)
 
 ### Restaurant Performance
 
-![Restaurant Performance](Dashboard/dashboard_restaurant_performance)
+![Restaurant Performance](Dashboard/dashboard_restaurant_performance.png)
 
 ### Customer & Operations Analysis
 
-![Customer & Operations Analysis](Dashboard/dashboard_customer_operations)
+![Customer & Operations Analysis](Dashboard/dashboard_customer_operations.png)
 
 ---
 
