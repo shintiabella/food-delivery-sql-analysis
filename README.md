@@ -4,7 +4,7 @@
 
 This project analyzes a food delivery dataset to uncover insights related to revenue performance, customer behavior, restaurant performance, and operational efficiency.
 
-The analysis was conducted using PostgreSQL for data extraction and transformation, followed by dashboard development in Looker Studio to visualize key business metrics and trends.
+The analysis was conducted using PostgreSQL for data extraction and transformation, followed by dashboard development in Data Studio to visualize key business metrics and trends.
 
 ---
 
@@ -48,7 +48,7 @@ Raw datasets are available in the `Dataset/` folder.
 * PostgreSQL
 * SQL
 * Google Sheets
-* Looker Studio
+* Data Studio
 * GitHub
 
 ---
@@ -141,7 +141,7 @@ food-delivery-sql-analysis/
 
 ## Interactive Dashboard
 
-Explore the full interactive dashboard developed in Looker Studio:
+Explore the full interactive dashboard developed in Data Studio:
 
 The dashboard includes:
 
